@@ -1,0 +1,2360 @@
+Load Options
+Compress
+_Filename:
+_Location:
+Location
+_Password:
+_Encrypt the file list too
+_Other Options
+C_reate
+Password required
+Delete
+_Files:
+example: *.txt; *.doc
+_All files
+_Selected files
+Archive _type:
+Open Files
+A_vailable application:
+R_ecent applications:
+_Application:
+Password
+Note: the password will be used to encrypt files you add to the current archive, and to decrypt files you extract from the current archive. When the archive is closed the password will be deleted.
+_Update
+S_elect the files you want to update:
+Archive Manager
+Create and modify an archive
+Extract Here
+Extract the selected archive in the current position
+Extract To...
+Extract the selected archive
+Create a compressed archive with the selected objects
+Could not create the archive
+You have to specify an archive name.
+You don't have permission to create an archive in this folder
+Archive type not supported.
+Could not delete the old archive.
+Open
+All archives
+All files
+Last Output
+File Roller is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+File Roller is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with File Roller; if not, write to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
+Copyright © 2001-2007 Free Software Foundation, Inc.
+An archive manager for GNOME.
+translator-credits
+Could not add the files to the archive
+You don't have the right permissions to read files from folder "%s"
+Add Files
+Add only if _newer
+Add a Folder
+_Include subfolders
+Exclude folders that are symbolic lin_ks
+example: *.o; *.bak
+Include _files:
+E_xclude files:
+_Exclude folders:
+_Load Options
+Sa_ve Options
+_Reset Options
+Save Options
+Options Name:
+Enter the password for the archive '%s'.
+The name "%s" is not valid because it cannot contain the characters: %s %s
+Please use a different name.
+You don't have the right permissions to create an archive in the destination folder.
+Destination folder "%s" does not exist. Do you want to create it?
+Create _Folder
+Could not create the destination folder: %s.
+Archive not created
+The archive is already present. Do you want to overwrite it?
+_Overwrite
+Extraction not performed
+You don't have the right permissions to extract archives in the folder "%s"
+Extract
+Actions
+Re-crea_te folders
+Over_write existing files
+Do not e_xtract older files
+Automatic
+New
+Save
+Location:
+Name:
+%s Properties
+Modified on:
+Archive size:
+Content size:
+Compression ratio:
+Number of files:
+Update the file "%s" in the archive "%s"?
+Update the files in the archive "%s"?
+You don't have the right permissions.
+This archive type cannot be modified
+You can't add an archive to itself.
+Adding file:
+Removing file:
+Extracting file:
+Could not find the volume: %s
+Deleting files from archive
+Recompressing archive
+Decompressing archive
+_Add
+_Extract
+Folder
+[read only]
+Could not display the folder "%s"
+Creating archive
+Loading archive
+Reading archive
+Testing archive
+Getting the file list
+Copying the file list
+Adding files to archive
+Extracting files from archive
+Saving archive
+_Open the Archive
+_Show the Files
+Archive:
+Archive created successfully
+wait please...
+An error occurred while extracting files.
+Could not open "%s"
+An error occurred while loading the archive.
+An error occurred while deleting files from the archive.
+An error occurred while adding files to the archive.
+An error occurred while testing archive.
+An error occurred while saving the archive.
+An error occurred.
+Command not found.
+Command exited abnormally.
+Test Result
+Could not perform the operation
+Do you want to add this file to the current archive or open it as a new archive?
+Do you want to create a new archive with these files?
+Create _Archive
+Folders
+Size
+Type
+Date Modified
+Name
+Find:
+Close the folders pane
+Open archive
+Open a recently used archive
+Could not save the archive "%s"
+The new name is void.
+The new name is equal to the old one.
+A folder named "%s" already exists. %s
+A file named "%s" already exists. %s
+Rename
+New folder name
+New file name
+_Rename
+Could not rename the folder
+Could not rename the file
+Paste Selection
+Destination folder
+Add files to an archive
+Extract archive
+%d %B %Y, %H:%M
+Command _Line Output
+Could not display help
+7-Zip (.7z)
+Tar compressed with 7z (.tar.7z)
+Ace (.ace)
+Ar (.ar)
+Arj (.arj)
+Tar compressed with bzip2 (.tar.bz2)
+Tar compressed with bzip (.tar.bz)
+Tar compressed with gzip (.tar.gz)
+Ear (.ear)
+Self-extracting zip (.exe)
+Jar (.jar)
+Lha (.lzh)
+Tar compressed with lzip (.tar.lz)
+Tar compressed with lzma (.tar.lzma)
+Tar compressed with lzop (.tar.lzo)
+Rar (.rar)
+Tar uncompressed (.tar)
+Tar compressed with compress (.tar.Z)
+War (.war)
+Tar compressed with xz (.tar.xz)
+Zoo (.zoo)
+Zip (.zip)
+Add files to the specified archive and quit the program
+ARCHIVE
+Add files asking the name of the archive and quit the program
+Extract archives to the specified folder and quit the program
+FOLDER
+Extract archives asking the destination folder and quit the program
+Extract the contents of the archives in the archive folder and quit the program
+Default folder to use for the '--add' and '--extract' commands
+Create destination folder without asking confirmation
+- Create and modify an archive
+File Roller
+_File
+_Edit
+_View
+_Help
+_Arrange Files
+Open _Recent
+Information about the program
+_Add Files...
+Add files to the archive
+Add a _Folder...
+Add a folder to the archive
+Add Folder
+Close the current archive
+Contents
+Display the File Roller Manual
+Copy the selection
+Cut the selection
+Paste the clipboard
+_Rename...
+Rename the selection
+Delete the selection from the archive
+Dese_lect All
+Deselect all files
+_Extract...
+Extract files from the archive
+_Last Output
+View the output produced by the last executed command
+Create a new archive
+_Open With...
+Open selected files with an application
+Pass_word...
+Specify a password for this archive
+Show archive properties
+Reload current archive
+Save the current archive with a different name
+Select all files
+Stop current operation
+_Test Integrity
+Test whether the archive contains errors
+Open the selected file
+Open the selected folder
+Go to the previous visited location
+Go to the next visited location
+Go up one level
+Go to the home location
+_Toolbar
+View the main toolbar
+Stat_usbar
+View the statusbar
+_Reversed Order
+Reverse the list order
+_Folders
+View the folders pane
+View All _Files
+View as a F_older
+by _Name
+Sort file list by name
+by _Size
+Sort file list by file size
+by T_ype
+Sort file list by type
+by _Date modified
+Sort file list by modification time
+by _Location
+Sort file list by location
+Create Archive...
+Archive Manager
+Create and modify an archive
+Load Options
+Compress
+_Filename:
+_Location:
+Location
+_Password:
+_Encrypt the file list too
+_Other Options
+C_reate
+Password required
+Delete
+_Files:
+example: *.txt; *.doc
+_All files
+_Selected files
+Open Files
+A_vailable application:
+R_ecent applications:
+_Application:
+Password
+Note: the password will be used to encrypt files you add to the current archive, and to decrypt files you extract from the current archive. When the archive is closed the password will be deleted.
+_Update
+S_elect the files you want to update:
+Extract Here
+Extract the selected archive in the current position
+Extract To...
+Extract the selected archive
+Create a compressed archive with the selected objects
+Could not create the archive
+You have to specify an archive name.
+You don't have permission to create an archive in this folder
+Archive type not supported.
+Could not delete the old archive.
+Open
+All archives
+All files
+Last Output
+File Roller is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+File Roller is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with File Roller; if not, write to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
+Copyright © 2001–2010 Free Software Foundation, Inc.
+An archive manager for GNOME.
+translator-credits
+Could not add the files to the archive
+You don't have the right permissions to read files from folder "%s"
+Add Files
+Add only if _newer
+Add a Folder
+_Include subfolders
+Exclude folders that are symbolic lin_ks
+example: *.o; *.bak
+Include _files:
+E_xclude files:
+_Exclude folders:
+_Load Options
+Sa_ve Options
+_Reset Options
+Save Options
+Options Name:
+Enter the password for the archive '%s'.
+The name "%s" is not valid because it cannot contain the characters: %s %s
+Please use a different name.
+You don't have the right permissions to create an archive in the destination folder.
+Destination folder "%s" does not exist. Do you want to create it?
+Create _Folder
+Could not create the destination folder: %s.
+Archive not created
+The archive is already present. Do you want to overwrite it?
+_Overwrite
+Extraction not performed
+You don't have the right permissions to extract archives in the folder "%s"
+Extract
+Actions
+Re-crea_te folders
+Over_write existing files
+Do not e_xtract older files
+New
+Save
+Could not open this file type
+Location:
+Name:
+%s Properties
+Modified on:
+Archive size:
+Content size:
+Compression ratio:
+Number of files:
+Update the file "%s" in the archive "%s"?
+Update the files in the archive "%s"?
+All Files
+File Format
+File not found.
+You don't have the right permissions.
+This archive type cannot be modified
+You can't add an archive to itself.
+Adding file:
+Extracting file:
+Removing file:
+Could not find the volume: %s
+Deleting files from archive
+Recompressing archive
+Decompressing archive
+_Add
+_Extract
+Folder
+[read only]
+Could not display the folder "%s"
+Creating archive
+Loading archive
+Reading archive
+Testing archive
+Getting the file list
+Copying the file list
+Adding files to archive
+Extracting files from archive
+Saving archive
+_Open the Archive
+_Show the Files
+Archive:
+Archive created successfully
+please wait...
+An error occurred while extracting files.
+Could not open "%s"
+An error occurred while loading the archive.
+An error occurred while deleting files from the archive.
+An error occurred while adding files to the archive.
+An error occurred while testing archive.
+An error occurred while saving the archive.
+An error occurred.
+Command not found.
+Command exited abnormally.
+Test Result
+Could not perform the operation
+Do you want to add this file to the current archive or open it as a new archive?
+Do you want to create a new archive with these files?
+Create _Archive
+Folders
+Size
+Type
+Date Modified
+Name
+Find:
+Close the folders pane
+Open archive
+Open a recently used archive
+Could not save the archive "%s"
+The new name is void.
+The new name is equal to the old one.
+A folder named "%s" already exists. %s
+A file named "%s" already exists. %s
+Rename
+New folder name
+New file name
+_Rename
+Could not rename the folder
+Could not rename the file
+Paste Selection
+Destination folder
+Add files to an archive
+Extract archive
+%d %B %Y, %H:%M
+Command _Line Output
+Could not display help
+7-Zip (.7z)
+Tar compressed with 7z (.tar.7z)
+Ace (.ace)
+Ar (.ar)
+Arj (.arj)
+Tar compressed with bzip2 (.tar.bz2)
+Tar compressed with bzip (.tar.bz)
+Tar compressed with gzip (.tar.gz)
+Ear (.ear)
+Self-extracting zip (.exe)
+Jar (.jar)
+Lha (.lzh)
+Tar compressed with lzip (.tar.lz)
+Tar compressed with lzma (.tar.lzma)
+Tar compressed with lzop (.tar.lzo)
+Rar (.rar)
+Tar uncompressed (.tar)
+Tar compressed with compress (.tar.Z)
+War (.war)
+Tar compressed with xz (.tar.xz)
+Zoo (.zoo)
+Zip (.zip)
+Add files to the specified archive and quit the program
+ARCHIVE
+Add files asking the name of the archive and quit the program
+Extract archives to the specified folder and quit the program
+FOLDER
+Extract archives asking the destination folder and quit the program
+Extract the contents of the archives in the archive folder and quit the program
+Default folder to use for the '--add' and '--extract' commands
+Create destination folder without asking confirmation
+- Create and modify an archive
+File Roller
+_File
+_Edit
+_View
+_Help
+_Arrange Files
+Open _Recent
+Information about the program
+_Add Files...
+Add files to the archive
+Add a _Folder...
+Add a folder to the archive
+Add Folder
+Close the current archive
+Contents
+Display the File Roller Manual
+Copy the selection
+Cut the selection
+Paste the clipboard
+_Rename...
+Rename the selection
+Delete the selection from the archive
+Dese_lect All
+Deselect all files
+_Extract...
+Extract files from the archive
+_Last Output
+View the output produced by the last executed command
+Create a new archive
+_Open With...
+Open selected files with an application
+Pass_word...
+Specify a password for this archive
+Show archive properties
+Reload current archive
+Save the current archive with a different name
+Select all files
+Stop current operation
+_Test Integrity
+Test whether the archive contains errors
+Open the selected file
+Open the selected folder
+Go to the previous visited location
+Go to the next visited location
+Go up one level
+Go to the home location
+_Toolbar
+View the main toolbar
+Stat_usbar
+View the statusbar
+_Reversed Order
+Reverse the list order
+_Folders
+View the folders pane
+View All _Files
+View as a F_older
+by _Name
+Sort file list by name
+by _Size
+Sort file list by file size
+by T_ype
+Sort file list by type
+by _Date Modified
+Sort file list by modification time
+by _Location
+Sort file list by location
+Archive Manager
+Create and modify an archive
+Load Options
+Compress
+_Filename:
+_Location:
+Location
+_Password:
+_Encrypt the file list too
+_Other Options
+C_reate
+Password required
+Delete
+_Files:
+example: *.txt; *.doc
+_All files
+_Selected files
+Open Files
+A_vailable application:
+R_ecent applications:
+_Application:
+Password
+Note: the password will be used to encrypt files you add to the current archive, and to decrypt files you extract from the current archive. When the archive is closed the password will be deleted.
+_Update
+S_elect the files you want to update:
+Extract Here
+Extract the selected archive to the current position
+Extract To...
+Extract the selected archive
+Create a compressed archive with the selected objects
+Could not create the archive
+You have to specify an archive name.
+You don't have permission to create an archive in this folder
+Archive type not supported.
+Could not delete the old archive.
+Open
+All archives
+All files
+Last Output
+File Roller is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+File Roller is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with File Roller; if not, write to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
+Copyright © 2001–2010 Free Software Foundation, Inc.
+An archive manager for GNOME.
+translator-credits
+Could not add the files to the archive
+You don't have the right permissions to read files from folder "%s"
+Add Files
+Add only if _newer
+Add a Folder
+_Include subfolders
+Exclude folders that are symbolic lin_ks
+example: *.o; *.bak
+Include _files:
+E_xclude files:
+_Exclude folders:
+_Load Options
+Sa_ve Options
+_Reset Options
+Save Options
+Options Name:
+Enter the password for the archive '%s'.
+The name "%s" is not valid because it cannot contain the characters: %s %s
+Please use a different name.
+You don't have the right permissions to create an archive in the destination folder.
+Destination folder "%s" does not exist. Do you want to create it?
+Create _Folder
+Could not create the destination folder: %s.
+Archive not created
+The archive is already present. Do you want to overwrite it?
+_Overwrite
+Extraction not performed
+You don't have the right permissions to extract archives in the folder "%s"
+Extract
+Actions
+Re-crea_te folders
+Over_write existing files
+Do not e_xtract older files
+New
+Save
+Could not open this file type
+Location:
+Name:
+%s Properties
+Modified on:
+Archive size:
+Content size:
+Compression ratio:
+Number of files:
+Update the file "%s" in the archive "%s"?
+Update the files in the archive "%s"?
+All Files
+File Format
+File not found.
+You don't have the right permissions.
+This archive type cannot be modified
+You can't add an archive to itself.
+Adding file:
+Extracting file:
+Removing file:
+Could not find the volume: %s
+Deleting files from archive
+Recompressing archive
+Decompressing archive
+_Add
+_Extract
+Folder
+[read only]
+Could not display the folder "%s"
+Creating archive
+Loading archive
+Reading archive
+Testing archive
+Getting the file list
+Copying the file list
+Adding files to archive
+Extracting files from archive
+Saving archive
+_Open the Archive
+_Show the Files
+Archive:
+Archive created successfully
+please wait...
+An error occurred while extracting files.
+Could not open "%s"
+An error occurred while loading the archive.
+An error occurred while deleting files from the archive.
+An error occurred while adding files to the archive.
+An error occurred while testing archive.
+An error occurred while saving the archive.
+An error occurred.
+Command not found.
+Command exited abnormally.
+Test Result
+Could not perform the operation
+Do you want to add this file to the current archive or open it as a new archive?
+Do you want to create a new archive with these files?
+Create _Archive
+Folders
+Size
+Type
+Date Modified
+Name
+Find:
+Close the folders pane
+Open archive
+Open a recently used archive
+Could not save the archive "%s"
+The new name is void.
+The new name is equal to the old one.
+A folder named "%s" already exists. %s
+A file named "%s" already exists. %s
+Rename
+New folder name
+New file name
+_Rename
+Could not rename the folder
+Could not rename the file
+Paste Selection
+Destination folder
+Add files to an archive
+Extract archive
+%d %B %Y, %H:%M
+Command _Line Output
+Could not display help
+7-Zip (.7z)
+Tar compressed with 7z (.tar.7z)
+Ace (.ace)
+Ar (.ar)
+Arj (.arj)
+Tar compressed with bzip2 (.tar.bz2)
+Tar compressed with bzip (.tar.bz)
+Tar compressed with gzip (.tar.gz)
+Ear (.ear)
+Self-extracting zip (.exe)
+Jar (.jar)
+Lha (.lzh)
+Lrzip (.lrz)
+Tar compressed with lrzip (.tar.lrz)
+Tar compressed with lzip (.tar.lz)
+Tar compressed with lzma (.tar.lzma)
+Tar compressed with lzop (.tar.lzo)
+Rar (.rar)
+Tar uncompressed (.tar)
+Tar compressed with compress (.tar.Z)
+War (.war)
+Tar compressed with xz (.tar.xz)
+Zoo (.zoo)
+Zip (.zip)
+Add files to the specified archive and quit the program
+ARCHIVE
+Add files asking the name of the archive and quit the program
+Extract archives to the specified folder and quit the program
+FOLDER
+Extract archives asking the destination folder and quit the program
+Extract the contents of the archives in the archive folder and quit the program
+Default folder to use for the '--add' and '--extract' commands
+Create destination folder without asking confirmation
+- Create and modify an archive
+File Roller
+_Archive
+_Edit
+_View
+_Help
+_Arrange Files
+Open _Recent
+Information about the program
+_Add Files...
+Add files to the archive
+Add a _Folder...
+Add a folder to the archive
+Add Folder
+Close the current archive
+Contents
+Display the File Roller Manual
+Copy the selection
+Cut the selection
+Paste the clipboard
+_Rename...
+Rename the selection
+Delete the selection from the archive
+Dese_lect All
+Deselect all files
+_Extract...
+Extract files from the archive
+Find...
+_Last Output
+View the output produced by the last executed command
+Create a new archive
+Open...
+_Open With...
+Open selected files with an application
+Pass_word...
+Specify a password for this archive
+Show archive properties
+Reload current archive
+Save the current archive with a different name
+Select all files
+Stop current operation
+_Test Integrity
+Test whether the archive contains errors
+Open the selected file
+Open the selected folder
+Go to the previous visited location
+Go to the next visited location
+Go up one level
+Go to the home location
+_Toolbar
+View the main toolbar
+Stat_usbar
+View the statusbar
+_Reversed Order
+Reverse the list order
+_Folders
+View the folders pane
+View All _Files
+View as a F_older
+by _Name
+Sort file list by name
+by _Size
+Sort file list by file size
+by T_ype
+Sort file list by type
+by _Date Modified
+Sort file list by modification time
+by _Location
+Sort file list by location
+Archive Manager
+Create and modify an archive
+View toolbar
+View statusbar
+View the folders pane
+Whether to display the folders pane.
+Editors
+Compression level
+Overwrite existing files
+Do not overwrite newer files
+Recreate the folders stored in the archive
+Load Options
+Compress
+_Filename:
+_Location:
+Location
+_Password:
+_Encrypt the file list too
+_Other Options
+C_reate
+Password required
+Delete
+_Files:
+example: *.txt; *.doc
+_All files
+_Selected files
+Password
+Note: the password will be used to encrypt files you add to the current archive, and to decrypt files you extract from the current archive. When the archive is closed the password will be deleted.
+_Update
+S_elect the files you want to update:
+Extract Here
+Extract the selected archive to the current position
+Extract To...
+Extract the selected archive
+Create a compressed archive with the selected objects
+Could not create the archive
+You have to specify an archive name.
+You don't have permission to create an archive in this folder
+Archive type not supported.
+Could not delete the old archive.
+Open
+All archives
+All files
+Last Output
+Copyright © 2001–2010 Free Software Foundation, Inc.
+An archive manager for GNOME.
+translator-credits
+Could not add the files to the archive
+You don't have the right permissions to read files from folder "%s"
+Add Files
+Add only if _newer
+Add a Folder
+_Include subfolders
+Exclude folders that are symbolic lin_ks
+example: *.o; *.bak
+Include _files:
+E_xclude files:
+_Exclude folders:
+_Load Options
+Sa_ve Options
+_Reset Options
+Save Options
+Options Name:
+Enter the password for the archive '%s'.
+The name "%s" is not valid because it cannot contain the characters: %s %s
+Please use a different name.
+You don't have the right permissions to create an archive in the destination folder.
+Destination folder "%s" does not exist. Do you want to create it?
+Create _Folder
+Could not create the destination folder: %s.
+Archive not created
+The archive is already present. Do you want to overwrite it?
+_Overwrite
+Extraction not performed
+You don't have the right permissions to extract archives in the folder "%s"
+Extract
+Actions
+Re-crea_te folders
+Over_write existing files
+Do not e_xtract older files
+New
+Save
+Could not open this file type
+Location:
+Name:
+%s Properties
+Modified on:
+Archive size:
+Content size:
+Compression ratio:
+Number of files:
+Update the file "%s" in the archive "%s"?
+Update the files in the archive "%s"?
+All Files
+File Format
+File not found.
+You don't have the right permissions.
+This archive type cannot be modified
+You can't add an archive to itself.
+Adding file:
+Extracting file:
+Removing file:
+Could not find the volume: %s
+Deleting files from archive
+Recompressing archive
+Decompressing archive
+7-Zip (.7z)
+Tar compressed with 7z (.tar.7z)
+Ace (.ace)
+Ar (.ar)
+Arj (.arj)
+Tar compressed with bzip2 (.tar.bz2)
+Tar compressed with bzip (.tar.bz)
+Tar compressed with gzip (.tar.gz)
+Ear (.ear)
+Self-extracting zip (.exe)
+Jar (.jar)
+Lha (.lzh)
+Lrzip (.lrz)
+Tar compressed with lrzip (.tar.lrz)
+Tar compressed with lzip (.tar.lz)
+Tar compressed with lzma (.tar.lzma)
+Tar compressed with lzop (.tar.lzo)
+Rar (.rar)
+Tar uncompressed (.tar)
+Tar compressed with compress (.tar.Z)
+War (.war)
+Tar compressed with xz (.tar.xz)
+Zoo (.zoo)
+Zip (.zip)
+_Add
+_Extract
+Folder
+[read only]
+Could not display the folder "%s"
+Creating archive
+Loading archive
+Reading archive
+Testing archive
+Getting the file list
+Copying the file list
+Adding files to archive
+Extracting files from archive
+Saving archive
+_Open the Archive
+_Show the Files
+Archive:
+Archive created successfully
+please wait...
+Command exited abnormally.
+An error occurred while extracting files.
+Could not open "%s"
+An error occurred while loading the archive.
+An error occurred while deleting files from the archive.
+An error occurred while adding files to the archive.
+An error occurred while testing archive.
+An error occurred while saving the archive.
+An error occurred.
+Command not found.
+Test Result
+Could not perform the operation
+Do you want to add this file to the current archive or open it as a new archive?
+Do you want to create a new archive with these files?
+Create _Archive
+Folders
+Size
+Type
+Date Modified
+Name
+Find:
+Close the folders pane
+Open archive
+Open a recently used archive
+Could not save the archive "%s"
+The new name is void.
+The new name is equal to the old one.
+A folder named "%s" already exists. %s
+A file named "%s" already exists. %s
+Rename
+New folder name
+New file name
+_Rename
+Could not rename the folder
+Could not rename the file
+Paste Selection
+Destination folder
+Add files to an archive
+Extract archive
+%d %B %Y, %H:%M
+Command _Line Output
+Could not display help
+Add files to the specified archive and quit the program
+ARCHIVE
+Add files asking the name of the archive and quit the program
+Extract archives to the specified folder and quit the program
+FOLDER
+Extract archives asking the destination folder and quit the program
+Extract the contents of the archives in the archive folder and quit the program
+Default folder to use for the '--add' and '--extract' commands
+Create destination folder without asking confirmation
+- Create and modify an archive
+File Roller
+_Archive
+_Edit
+_View
+_Help
+_Arrange Files
+Open _Recent
+Information about the program
+_Add Files...
+Add files to the archive
+Add a _Folder...
+Add a folder to the archive
+Add Folder
+Close the current archive
+Contents
+Display the File Roller Manual
+Copy the selection
+Cut the selection
+Paste the clipboard
+_Rename...
+Rename the selection
+Delete the selection from the archive
+Dese_lect All
+Deselect all files
+_Extract...
+Extract files from the archive
+Find...
+_Last Output
+View the output produced by the last executed command
+Create a new archive
+Open...
+_Open With...
+Open selected files with an application
+Pass_word...
+Specify a password for this archive
+Show archive properties
+Reload current archive
+Save the current archive with a different name
+Select all files
+Stop current operation
+_Test Integrity
+Test whether the archive contains errors
+Open the selected file
+Open the selected folder
+Go to the previous visited location
+Go to the next visited location
+Go up one level
+Go to the home location
+_Toolbar
+View the main toolbar
+Stat_usbar
+View the statusbar
+_Reversed Order
+Reverse the list order
+_Folders
+View All _Files
+View as a F_older
+by _Name
+Sort file list by name
+by _Size
+Sort file list by file size
+by T_ype
+Sort file list by type
+by _Date Modified
+Sort file list by modification time
+by _Location
+Sort file list by location
+Archive Manager
+Create and modify an archive
+View toolbar
+View statusbar
+View the folders pane
+Whether to display the folders pane.
+Editors
+Compression level
+Overwrite existing files
+Do not overwrite newer files
+Recreate the folders stored in the archive
+Load Options
+Compress
+_Filename:
+_Location:
+Location
+_Password:
+_Encrypt the file list too
+_Other Options
+Password required
+Delete
+_Files:
+example: *.txt; *.doc
+_All files
+_Selected files
+Password
+Note: the password will be used to encrypt files you add to the current archive, and to decrypt files you extract from the current archive. When the archive is closed the password will be deleted.
+_Update
+S_elect the files you want to update:
+Extract Here
+Extract the selected archive to the current position
+Extract To...
+Extract the selected archive
+Create a compressed archive with the selected objects
+Could not create the archive
+You have to specify an archive name.
+You don't have permission to create an archive in this folder
+Archive type not supported.
+Could not delete the old archive.
+Open
+All archives
+All files
+Last Output
+Copyright © 2001–2010 Free Software Foundation, Inc.
+An archive manager for GNOME.
+translator-credits
+Could not add the files to the archive
+You don't have the right permissions to read files from folder "%s"
+Add Files
+Add only if _newer
+Add a Folder
+_Include subfolders
+Exclude folders that are symbolic lin_ks
+example: *.o; *.bak
+Include _files:
+E_xclude files:
+_Exclude folders:
+_Load Options
+Sa_ve Options
+_Reset Options
+Save Options
+Options Name:
+Enter the password for the archive '%s'.
+The name "%s" is not valid because it cannot contain the characters: %s %s
+Please use a different name.
+You don't have the right permissions to create an archive in the destination folder.
+Destination folder "%s" does not exist. Do you want to create it?
+Create _Folder
+Could not create the destination folder: %s.
+Archive not created
+The archive is already present. Do you want to overwrite it?
+_Overwrite
+Extraction not performed
+You don't have the right permissions to extract archives in the folder "%s"
+Extract
+Actions
+Re-crea_te folders
+Over_write existing files
+Do not e_xtract older files
+New
+Save
+Could not open this file type
+Location:
+Name:
+%s Properties
+Modified on:
+Archive size:
+Content size:
+Compression ratio:
+Number of files:
+Update the file "%s" in the archive "%s"?
+Update the files in the archive "%s"?
+All Files
+File Format
+File not found.
+You don't have the right permissions.
+This archive type cannot be modified
+You can't add an archive to itself.
+Adding file:
+Extracting file:
+Removing file:
+Could not find the volume: %s
+Deleting files from archive
+Recompressing archive
+Decompressing archive
+7-Zip (.7z)
+Tar compressed with 7z (.tar.7z)
+Ace (.ace)
+Ar (.ar)
+Arj (.arj)
+Tar compressed with bzip2 (.tar.bz2)
+Tar compressed with bzip (.tar.bz)
+Tar compressed with gzip (.tar.gz)
+Ear (.ear)
+Self-extracting zip (.exe)
+Jar (.jar)
+Lha (.lzh)
+Lrzip (.lrz)
+Tar compressed with lrzip (.tar.lrz)
+Tar compressed with lzip (.tar.lz)
+Tar compressed with lzma (.tar.lzma)
+Tar compressed with lzop (.tar.lzo)
+Rar (.rar)
+Tar uncompressed (.tar)
+Tar compressed with compress (.tar.Z)
+War (.war)
+Tar compressed with xz (.tar.xz)
+Zoo (.zoo)
+Zip (.zip)
+C_reate
+_Add
+_Extract
+Folder
+[read only]
+Could not display the folder "%s"
+Creating archive
+Loading archive
+Reading archive
+Testing archive
+Getting the file list
+Copying the file list
+Adding files to archive
+Extracting files from archive
+Saving archive
+_Open the Archive
+_Show the Files
+Archive:
+Archive created successfully
+please wait...
+Command exited abnormally.
+An error occurred while extracting files.
+Could not open "%s"
+An error occurred while loading the archive.
+An error occurred while deleting files from the archive.
+An error occurred while adding files to the archive.
+An error occurred while testing archive.
+An error occurred while saving the archive.
+An error occurred.
+Command not found.
+Test Result
+Could not perform the operation
+Do you want to add this file to the current archive or open it as a new archive?
+Do you want to create a new archive with these files?
+Create _Archive
+Folders
+Size
+Type
+Date Modified
+Name
+Find:
+Close the folders pane
+Open archive
+Open a recently used archive
+Could not save the archive "%s"
+The new name is void.
+The new name is equal to the old one.
+A folder named "%s" already exists. %s
+A file named "%s" already exists. %s
+Rename
+New folder name
+New file name
+_Rename
+Could not rename the folder
+Could not rename the file
+Paste Selection
+Destination folder
+Add files to an archive
+Extract archive
+%d %B %Y, %H:%M
+Command _Line Output
+Could not display help
+Add files to the specified archive and quit the program
+ARCHIVE
+Add files asking the name of the archive and quit the program
+Extract archives to the specified folder and quit the program
+FOLDER
+Extract archives asking the destination folder and quit the program
+Extract the contents of the archives in the archive folder and quit the program
+Default folder to use for the '--add' and '--extract' commands
+Create destination folder without asking confirmation
+- Create and modify an archive
+File Roller
+_Archive
+_Edit
+_View
+_Help
+_Arrange Files
+Open _Recent
+Information about the program
+_Add Files...
+Add files to the archive
+Add a _Folder...
+Add a folder to the archive
+Add Folder
+Close the current archive
+Contents
+Display the File Roller Manual
+Copy the selection
+Cut the selection
+Paste the clipboard
+_Rename...
+Rename the selection
+Delete the selection from the archive
+Dese_lect All
+Deselect all files
+_Extract...
+Extract files from the archive
+Find...
+_Last Output
+View the output produced by the last executed command
+Create a new archive
+Open...
+_Open With...
+Open selected files with an application
+Pass_word...
+Specify a password for this archive
+Show archive properties
+Reload current archive
+Save the current archive with a different name
+Select all files
+Stop current operation
+_Test Integrity
+Test whether the archive contains errors
+Open the selected file
+Open the selected folder
+Go to the previous visited location
+Go to the next visited location
+Go up one level
+Go to the home location
+_Toolbar
+View the main toolbar
+Stat_usbar
+View the statusbar
+_Reversed Order
+Reverse the list order
+_Folders
+View All _Files
+View as a F_older
+by _Name
+Sort file list by name
+by _Size
+Sort file list by file size
+by T_ype
+Sort file list by type
+by _Date Modified
+Sort file list by modification time
+by _Location
+Sort file list by location
+Archive Manager
+Create and modify an archive
+View toolbar
+View statusbar
+View the folders pane
+Whether to display the folders pane.
+Editors
+Compression level
+Overwrite existing files
+Do not overwrite newer files
+Recreate the folders stored in the archive
+Load Options
+Compress
+_Filename:
+_Location:
+Location
+_Password:
+_Encrypt the file list too
+_Other Options
+Password required
+Delete
+_Files:
+example: *.txt; *.doc
+_All files
+_Selected files
+Password
+_Encrypt the file list
+Note: the password will be used to encrypt files you add to the current archive, and to decrypt files you extract from the current archive. When the archive is closed the password will be deleted.
+_Update
+S_elect the files you want to update:
+Extract Here
+Extract the selected archive to the current position
+Extract To...
+Extract the selected archive
+Create a compressed archive with the selected objects
+Could not create the archive
+You have to specify an archive name.
+You don't have permission to create an archive in this folder
+Archive type not supported.
+Could not delete the old archive.
+Open
+All archives
+All files
+Copyright © 2001–2010 Free Software Foundation, Inc.
+An archive manager for GNOME.
+translator-credits
+Could not add the files to the archive
+You don't have the right permissions to read files from folder "%s"
+Add Files
+Add only if _newer
+Add a Folder
+_Include subfolders
+Exclude folders that are symbolic lin_ks
+example: *.o; *.bak
+Include _files:
+E_xclude files:
+_Exclude folders:
+_Load Options
+Sa_ve Options
+_Reset Options
+Save Options
+_Options Name:
+Enter the password for the archive '%s'.
+The name "%s" is not valid because it cannot contain the characters: %s %s
+Please use a different name.
+You don't have the right permissions to create an archive in the destination folder.
+Destination folder "%s" does not exist. Do you want to create it?
+Create _Folder
+Could not create the destination folder: %s.
+Archive not created
+The archive is already present. Do you want to overwrite it?
+_Overwrite
+Extraction not performed
+You don't have the right permissions to extract archives in the folder "%s"
+Extract
+Actions
+Re-crea_te folders
+Over_write existing files
+Do not e_xtract older files
+New
+Save
+Could not open this file type
+Location:
+Name:
+%s Properties
+Last modified:
+Archive size:
+Content size:
+Compression ratio:
+Number of files:
+Update the file "%s" in the archive "%s"?
+Update the files in the archive "%s"?
+All Files
+File Format
+File not found.
+Archive not found
+You don't have the right permissions.
+This archive type cannot be modified
+You can't add an archive to itself.
+Adding file:
+Extracting file:
+Removing file:
+Could not find the volume: %s
+Deleting files from archive
+Recompressing archive
+Decompressing archive
+7-Zip (.7z)
+Tar compressed with 7z (.tar.7z)
+Ace (.ace)
+Ar (.ar)
+Arj (.arj)
+Tar compressed with bzip2 (.tar.bz2)
+Tar compressed with bzip (.tar.bz)
+Tar compressed with gzip (.tar.gz)
+Ear (.ear)
+Self-extracting zip (.exe)
+Jar (.jar)
+Lha (.lzh)
+Lrzip (.lrz)
+Tar compressed with lrzip (.tar.lrz)
+Tar compressed with lzip (.tar.lz)
+Tar compressed with lzma (.tar.lzma)
+Tar compressed with lzop (.tar.lzo)
+Rar (.rar)
+Tar uncompressed (.tar)
+Tar compressed with compress (.tar.Z)
+War (.war)
+Tar compressed with xz (.tar.xz)
+Zoo (.zoo)
+Zip (.zip)
+C_reate
+_Add
+_Extract
+Folder
+[read only]
+Could not display the folder "%s"
+Creating archive
+Loading archive
+Reading archive
+Testing archive
+Getting the file list
+Copying the file list
+Adding files to archive
+Extracting files from archive
+Saving archive
+_Open the Archive
+_Show the Files
+Archive:
+Archive created successfully
+Command exited abnormally.
+An error occurred while extracting files.
+Could not open "%s"
+An error occurred while loading the archive.
+An error occurred while deleting files from the archive.
+An error occurred while adding files to the archive.
+An error occurred while testing archive.
+An error occurred while saving the archive.
+An error occurred.
+Command not found.
+Test Result
+Could not perform the operation
+Do you want to add this file to the current archive or open it as a new archive?
+Do you want to create a new archive with these files?
+Create _Archive
+Folders
+Size
+Type
+Date Modified
+Name
+Find:
+Close the folders pane
+Open _Recent
+Open a recently used archive
+Could not save the archive "%s"
+Replace file "%s"?
+Another file with the same name already exists in "%s".
+Last Output
+Name "%s" is not valid because it contains at least one of the following characters: %s, please type other name.
+A folder named "%s" already exists. %s
+A file named "%s" already exists. %s
+Rename
+_New folder name:
+_New file name:
+_Rename
+Could not rename the folder
+Could not rename the file
+Paste Selection
+_Destination folder:
+Add files to an archive
+Extract archive
+%d %B %Y, %H:%M
+Command _Line Output
+Could not display help
+Add files to the specified archive and quit the program
+ARCHIVE
+Add files asking the name of the archive and quit the program
+Extract archives to the specified folder and quit the program
+FOLDER
+Extract archives asking the destination folder and quit the program
+Extract the contents of the archives in the archive folder and quit the program
+Default folder to use for the '--add' and '--extract' commands
+Create destination folder without asking confirmation
+- Create and modify an archive
+File Roller
+_Archive
+_Edit
+_View
+_Help
+_Arrange Files
+Information about the program
+_Add Files…
+Add files to the archive
+Add a _Folder…
+Add a folder to the archive
+Add Folder
+Close the current archive
+Contents
+Display the File Roller Manual
+Copy the selection
+Cut the selection
+Paste the clipboard
+_Rename…
+Rename the selection
+Delete the selection from the archive
+Dese_lect All
+Deselect all files
+_Extract…
+Extract files from the archive
+Find…
+Create a new archive
+Open…
+Open archive
+_Open With…
+Open selected files with an application
+Pass_word…
+Specify a password for this archive
+Show archive properties
+Reload current archive
+Save the current archive with a different name
+Select all files
+Stop current operation
+_Test Integrity
+Test whether the archive contains errors
+Open the selected file
+Open the selected folder
+Go to the previous visited location
+Go to the next visited location
+Go up one level
+Go to the home location
+_Toolbar
+View the main toolbar
+Stat_usbar
+View the statusbar
+_Reversed Order
+Reverse the list order
+_Folders
+View All _Files
+View as a F_older
+by _Name
+Sort file list by name
+by _Size
+Sort file list by file size
+by T_ype
+Sort file list by type
+by _Date Modified
+Sort file list by modification time
+by _Location
+Sort file list by location
+Archive Manager
+Create and modify an archive
+View toolbar
+View statusbar
+View the folders pane
+Whether to display the folders pane.
+Editors
+Compression level
+Do not overwrite newer files
+Recreate the folders stored in the archive
+Extract Here
+Extract the selected archive to the current position
+Extract To...
+Extract the selected archive
+Create a compressed archive with the selected objects
+Open
+All archives
+All files
+Copyright © 2001–2010 Free Software Foundation, Inc.
+An archive manager for GNOME.
+translator-credits
+Could not add the files to the archive
+You don't have the right permissions to read files from folder "%s"
+Add Files
+_Options
+Load Options
+Save Options
+Reset Options
+_Options Name:
+Wrong password.
+Compress
+Destination folder "%s" does not exist. Do you want to create it?
+Create _Folder
+Extraction not performed
+Could not create the destination folder: %s.
+You don't have the right permissions to extract archives in the folder "%s"
+Extract
+Archive type not supported.
+Could not open this file type
+Enter a password for "%s"
+%s Properties
+Update the file "%s" in the archive "%s"?
+Update the files in the archive "%s"?
+You don't have the right permissions.
+This archive type cannot be modified
+You can't add an archive to itself.
+Extracting "%s"
+Archive not found
+Removing "%s"
+Could not find the volume: %s
+Deleting files from archive
+Recompressing archive
+Decompressing archive
+File System
+Could not load the location
+Could not create the archive
+You have to specify an archive name.
+You don't have permission to create an archive in this folder
+A file named "%s" already exists. Do you want to replace it?
+The file already exists in "%s". Replacing it will overwrite its contents.
+Could not delete the old archive.
+C_reate
+_Add
+_Extract
+Folder
+[read only]
+Could not display the folder "%s"
+Creating "%s"
+Deleting the files from "%s"
+Getting the file list
+Copying the files to add to "%s"
+Adding the files to "%s"
+Extracting the files from "%s"
+Renaming the files in "%s"
+Updating the files in "%s"
+_Open the Archive
+_Show the Files
+Command exited abnormally.
+An error occurred while extracting files.
+Could not open "%s"
+An error occurred while loading the archive.
+An error occurred while deleting files from the archive.
+An error occurred while adding files to the archive.
+An error occurred while testing archive.
+An error occurred while saving the archive.
+An error occurred while renaming the files.
+An error occurred while updating the files.
+An error occurred.
+Command not found.
+Test Result
+Could not perform the operation
+Do you want to add this file to the current archive or open it as a new archive?
+Do you want to create a new archive with these files?
+Create _Archive
+New Archive
+Folders
+Size
+Type
+Modified
+Location
+Name
+Find:
+Open _Recent
+Open a recently used archive
+_Location:
+Replace file "%s"?
+Another file with the same name already exists in "%s".
+Could not save the archive "%s"
+Save
+Last Output
+Name "%s" is not valid because it contains at least one of the following characters: %s, please type other name.
+A folder named "%s" already exists. %s
+Please use a different name.
+A file named "%s" already exists. %s
+Rename
+_New folder name:
+_New file name:
+_Rename
+Could not rename the folder
+Could not rename the file
+Copying the files from "%s" to "%s"
+Paste Selection
+_Destination folder:
+Add files to an archive
+Extract archive
+%d %B %Y, %H:%M
+Could not display help
+Add files to the specified archive and quit the program
+ARCHIVE
+Add files asking the name of the archive and quit the program
+Extract archives to the specified folder and quit the program
+FOLDER
+Extract archives asking the destination folder and quit the program
+Extract the contents of the archives in the archive folder and quit the program
+Default folder to use for the '--add' and '--extract' commands
+Create destination folder without asking confirmation
+File Roller
+- Create and modify an archive
+Add
+Include _files:
+E_xclude files:
+_Exclude folders:
+example: *.o; *.bak
+Actions
+Add only if _newer
+_Follow symbolic links
+_New Archive
+_Help
+_About Archive Manager
+_Password:
+Delete
+_Files:
+example: *.txt; *.doc
+_All files
+_Selected files
+C_ommand Line Output:
+Do not _overwrite newer files
+Go up one level
+_Select All
+Dese_lect All
+Show Hidden Files
+_Archive
+_Edit
+_View
+_Arrange Files
+Information about the program
+_Add Files…
+Add files to the archive
+Close the current archive
+Contents
+Display the File Roller Manual
+Copy the selection
+Cut the selection
+Paste the clipboard
+_Rename…
+Rename the selection
+Delete the selection from the archive
+Deselect all files
+_Extract…
+Extract files from the archive
+Find…
+Create a new archive
+Open…
+Open archive
+_Open With…
+Open selected files with an application
+Pass_word…
+Specify a password for this archive
+Show archive properties
+Reload current archive
+Save the current archive with a different name
+Select all files
+_Test Integrity
+Test whether the archive contains errors
+Open the selected file
+Open the selected folder
+Go to the previous visited location
+Go to the next visited location
+Go to the home location
+_Toolbar
+View the main toolbar
+Stat_usbar
+View the statusbar
+_Folders
+View All _Files
+View as a F_older
+_Encrypt the file list too
+_Other Options
+_Filename:
+Password
+_Encrypt the file list
+Name:
+Archive size:
+Location:
+Compression ratio:
+Last modified:
+Content size:
+Number of files:
+Type:
+_Update
+S_elect the files you want to update:
+Password required
+Note: the password will be used to encrypt files you add to the current archive, and to decrypt files you extract from the current archive. When the archive is closed the password will be deleted.
+Add a Folder
+_Include subfolders
+Exclude folders that are symbolic lin_ks
+You don't have the right permissions to create an archive in the destination folder.
+_Overwrite
+Re-crea_te folders
+Over_write existing files
+Adding file:
+7-Zip (.7z)
+Ar (.ar)
+Arj (.arj)
+Tar compressed with bzip2 (.tar.bz2)
+Tar compressed with gzip (.tar.gz)
+Self-extracting zip (.exe)
+Jar (.jar)
+Lha (.lzh)
+Tar compressed with lzma (.tar.lzma)
+Tar compressed with lzop (.tar.lzo)
+Tar uncompressed (.tar)
+Tar compressed with compress (.tar.Z)
+War (.war)
+Zoo (.zoo)
+Loading archive
+Reading archive
+Testing archive
+Saving archive
+Add a folder to the archive
+Add Folder
+Stop current operation
+_Reversed Order
+Reverse the list order
+by _Name
+Sort file list by name
+by _Size
+Sort file list by file size
+by T_ype
+Sort file list by type
+Sort file list by modification time
+by _Location
+Sort file list by location
+Archive Manager
+Create and modify an archive
+View statusbar
+View the folders pane
+Whether to display the folders pane.
+Editors
+Compression level
+Do not overwrite newer files
+Recreate the folders stored in the archive
+Extract Here
+Extract the selected archive to the current position
+Extract To...
+Extract the selected archive
+Create a compressed archive with the selected objects
+Open
+All archives
+All files
+Copyright © 2001–2010 Free Software Foundation, Inc.
+An archive manager for GNOME.
+translator-credits
+Could not add the files to the archive
+You don't have the right permissions to read files from folder "%s"
+Add Files
+_Options
+Load Options
+Save Options
+Reset Options
+_Options Name:
+Wrong password.
+Compress
+Destination folder "%s" does not exist. Do you want to create it?
+Create _Folder
+Extraction not performed
+Could not create the destination folder: %s.
+You don't have the right permissions to extract archives in the folder "%s"
+Extract
+Archive type not supported.
+Could not open this file type
+Enter a password for "%s"
+%s Properties
+Update the file "%s" in the archive "%s"?
+Update the files in the archive "%s"?
+Add files to the specified archive and quit the program
+ARCHIVE
+Add files asking the name of the archive and quit the program
+Extract archives to the specified folder and quit the program
+FOLDER
+Extract archives asking the destination folder and quit the program
+Extract the contents of the archives in the archive folder and quit the program
+Default folder to use for the '--add' and '--extract' commands
+Create destination folder without asking confirmation
+Extract archive
+- Create and modify an archive
+File Roller
+You don't have the right permissions.
+This archive type cannot be modified
+You can't add an archive to itself.
+Extracting "%s"
+Archive not found
+Removing "%s"
+Could not find the volume: %s
+Deleting files from archive
+Recompressing archive
+Decompressing archive
+File System
+Could not load the location
+Could not create the archive
+You have to specify an archive name.
+You don't have permission to create an archive in this folder
+A file named "%s" already exists. Do you want to replace it?
+The file already exists in "%s". Replacing it will overwrite its contents.
+Could not delete the old archive.
+C_reate
+_Add
+_Extract
+Folder
+[read only]
+Could not display the folder "%s"
+Creating "%s"
+Deleting the files from "%s"
+Getting the file list
+Copying the files to add to "%s"
+Adding the files to "%s"
+Extracting the files from "%s"
+Renaming the files in "%s"
+Updating the files in "%s"
+_Open the Archive
+_Show the Files
+Command exited abnormally.
+An error occurred while extracting files.
+Could not open "%s"
+An error occurred while loading the archive.
+An error occurred while deleting files from the archive.
+An error occurred while adding files to the archive.
+An error occurred while testing archive.
+An error occurred while saving the archive.
+An error occurred while renaming the files.
+An error occurred while updating the files.
+An error occurred.
+Command not found.
+Test Result
+Could not perform the operation
+Do you want to add this file to the current archive or open it as a new archive?
+Do you want to create a new archive with these files?
+Create _Archive
+New Archive
+Folders
+Size
+Type
+Modified
+Location
+Name
+Open _Recent
+Open a recently used archive
+_Other Actions
+Other actions
+_Location:
+Replace file "%s"?
+Another file with the same name already exists in "%s".
+Could not save the archive "%s"
+Save
+Last Output
+Name "%s" is not valid because it contains at least one of the following characters: %s, please type other name.
+A folder named "%s" already exists. %s
+Please use a different name.
+A file named "%s" already exists. %s
+Rename
+_New folder name:
+_New file name:
+_Rename
+Could not rename the folder
+Could not rename the file
+Copying the files from "%s" to "%s"
+Paste Selection
+_Destination folder:
+Add files to an archive
+%d %B %Y, %H:%M
+Could not display help
+Add
+Include _files:
+E_xclude files:
+_Exclude folders:
+example: *.o; *.bak
+Actions
+Add only if _newer
+_Follow symbolic links
+_New Archive
+View All _Files
+View as a F_older
+_Folders
+_Help
+_About Archive Manager
+_Password:
+Delete
+_Files:
+example: *.txt; *.doc
+_All files
+_Selected files
+C_ommand Line Output:
+Do not _overwrite newer files
+Go up one level
+_Select All
+Dese_lect All
+Show Hidden Files
+Information about the program
+_Add Files…
+Add files to the archive
+Close the current archive
+Contents
+Display the File Roller Manual
+Copy the selection
+Cut the selection
+Paste the clipboard
+_Rename…
+Rename the selection
+Delete the selection from the archive
+Deselect all files
+_Extract…
+Extract files from the archive
+Create a new archive
+Open…
+Open archive
+_Open With…
+Open selected files with an application
+Pass_word…
+Specify a password for this archive
+Show archive properties
+Reload current archive
+Save the current archive with a different name
+Select all files
+_Test Integrity
+Test whether the archive contains errors
+Open the selected file
+Open the selected folder
+Go to the previous visited location
+Go to the next visited location
+Go to the home location
+Stat_usbar
+View the statusbar
+Find…
+Find files by name
+_Filename:
+_Encrypt the file list too
+_Other Options
+Password
+_Encrypt the file list
+Name:
+Archive size:
+Location:
+Compression ratio:
+Last modified:
+Content size:
+Number of files:
+Type:
+_Update
+S_elect the files you want to update:
+_View
+_Arrange Files
+_Toolbar
+View the main toolbar
+Note: the password will be used to encrypt files you add to the current archive, and to decrypt files you extract from the current archive. When the archive is closed the password will be deleted.
+Add a Folder
+_Include subfolders
+Exclude folders that are symbolic lin_ks
+You don't have the right permissions to create an archive in the destination folder.
+_Overwrite
+Re-crea_te folders
+Over_write existing files
+Adding file:
+7-Zip (.7z)
+Ar (.ar)
+Arj (.arj)
+Tar compressed with bzip2 (.tar.bz2)
+Tar compressed with gzip (.tar.gz)
+Self-extracting zip (.exe)
+Jar (.jar)
+Lha (.lzh)
+Tar compressed with lzma (.tar.lzma)
+Tar compressed with lzop (.tar.lzo)
+Tar uncompressed (.tar)
+Tar compressed with compress (.tar.Z)
+War (.war)
+Zoo (.zoo)
+Loading archive
+Reading archive
+Testing archive
+Saving archive
+Add a folder to the archive
+Add Folder
+Stop current operation
+_Reversed Order
+Reverse the list order
+by _Name
+by _Size
+Sort file list by file size
+by T_ype
+Sort file list by type
+Sort file list by modification time
+by _Location
+Sort file list by location
+Archive Manager
+Create and modify an archive
+Editors
+Compression level
+Do not overwrite newer files
+Recreate the folders stored in the archive
+Extract Here
+Extract the selected archive to the current position
+Extract To...
+Extract the selected archive
+Create a compressed archive with the selected objects
+Could not add the files to the archive
+You don't have the right permissions to read files from folder "%s"
+Add Files
+_Options
+Load Options
+Save Options
+Reset Options
+_Options Name:
+Wrong password.
+Compress
+Destination folder "%s" does not exist. Do you want to create it?
+Create _Folder
+Extraction not performed
+Could not create the destination folder: %s.
+You don't have the right permissions to extract archives in the folder "%s"
+Extract
+Archive type not supported.
+Could not open this file type
+Enter a password for "%s"
+%s Properties
+Update the file "%s" in the archive "%s"?
+Update the files in the archive "%s"?
+Add files to the specified archive and quit the program
+ARCHIVE
+Add files asking the name of the archive and quit the program
+Extract archives to the specified folder and quit the program
+FOLDER
+Extract archives asking the destination folder and quit the program
+Extract the contents of the archives in the archive folder and quit the program
+Default folder to use for the '--add' and '--extract' commands
+Create destination folder without asking confirmation
+Extract archive
+- Create and modify an archive
+translator-credits
+You don't have the right permissions.
+This archive type cannot be modified
+You can't add an archive to itself.
+Extracting "%s"
+Archive not found
+Removing "%s"
+Could not find the volume: %s
+Deleting files from archive
+Recompressing archive
+Decompressing archive
+Could not load the location
+Could not create the archive
+You have to specify an archive name.
+You don't have permission to create an archive in this folder
+A file named "%s" already exists. Do you want to replace it?
+The file already exists in "%s". Replacing it will overwrite its contents.
+Could not delete the old archive.
+All archives
+All files
+Folder
+[read only]
+Could not display the folder "%s"
+Creating "%s"
+Deleting the files from "%s"
+Getting the file list
+Copying the files to add to "%s"
+Adding the files to "%s"
+Extracting the files from "%s"
+Renaming the files in "%s"
+Updating the files in "%s"
+_Open the Archive
+_Show the Files
+Command exited abnormally.
+An error occurred while extracting files.
+Could not open "%s"
+An error occurred while loading the archive.
+An error occurred while deleting files from the archive.
+An error occurred while adding files to the archive.
+An error occurred while testing archive.
+An error occurred while saving the archive.
+An error occurred while renaming the files.
+An error occurred while updating the files.
+An error occurred.
+Command not found.
+Test Result
+Could not perform the operation
+Do you want to add this file to the current archive or open it as a new archive?
+Do you want to create a new archive with these files?
+Create _Archive
+New Archive
+Folders
+Size
+Type
+Modified
+Location
+Name
+Find files by name
+Go to the next visited location
+Go to the home location
+Replace file "%s"?
+Another file with the same name already exists in "%s".
+Could not save the archive "%s"
+Save
+Last Output
+Name "%s" is not valid because it contains at least one of the following characters: %s, please type other name.
+A folder named "%s" already exists. %s
+Please use a different name.
+A file named "%s" already exists. %s
+Rename
+_New folder name:
+_New file name:
+_Rename
+Could not rename the folder
+Could not rename the file
+Copying the files from "%s" to "%s"
+Paste Selection
+_Destination folder:
+%d %B %Y, %H:%M
+Could not display help
+C_reate
+_Extract
+Add
+Include _files:
+E_xclude files:
+_Exclude folders:
+example: *.o; *.bak
+Actions
+Add only if _newer
+_Follow symbolic links
+_Test Integrity
+_Rename…
+_View
+View as a F_older
+_Help
+Contents
+_Password:
+Delete
+_Files:
+example: *.txt; *.doc
+_All files
+_Selected files
+C_ommand Line Output:
+Do not _overwrite newer files
+Dese_lect All
+Show Hidden Files
+Pass_word…
+_Extract…
+_Filename:
+_Other Options
+Password
+_Encrypt the file list
+Name:
+Archive size:
+Location:
+Compression ratio:
+Last modified:
+Content size:
+Number of files:
+Type:
+_Update
+S_elect the files you want to update:
+_Folders
+_About Archive Manager
+View the folders pane
+Whether to display the folders pane.
+Open _Recent
+Open a recently used archive
+_Other Actions
+Other actions
+Add files to an archive
+Information about the program
+Add files to the archive
+Close the current archive
+Display the File Roller Manual
+Copy the selection
+Cut the selection
+Paste the clipboard
+Rename the selection
+Delete the selection from the archive
+Deselect all files
+Extract files from the archive
+Create a new archive
+Open archive
+Open selected files with an application
+Specify a password for this archive
+Show archive properties
+Reload current archive
+Save the current archive with a different name
+Select all files
+Test whether the archive contains errors
+Open the selected file
+Open the selected folder
+Stat_usbar
+Find…
+_Arrange Files
+_Toolbar
+View the main toolbar
+Note: the password will be used to encrypt files you add to the current archive, and to decrypt files you extract from the current archive. When the archive is closed the password will be deleted.
+Add a Folder
+_Include subfolders
+Exclude folders that are symbolic lin_ks
+You don't have the right permissions to create an archive in the destination folder.
+_Overwrite
+Re-crea_te folders
+Over_write existing files
+Adding file:
+7-Zip (.7z)
+Ar (.ar)
+Arj (.arj)
+Tar compressed with bzip2 (.tar.bz2)
+Tar compressed with gzip (.tar.gz)
+Self-extracting zip (.exe)
+Jar (.jar)
+Lha (.lzh)
+Tar compressed with lzma (.tar.lzma)
+Tar compressed with lzop (.tar.lzo)
+Tar uncompressed (.tar)
+Tar compressed with compress (.tar.Z)
+War (.war)
+Zoo (.zoo)
+Reading archive
+Testing archive
+Saving archive
+Add a folder to the archive
+Add Folder
+Stop current operation
+_Reversed Order
+Reverse the list order
+by _Name
+by _Size
+Sort file list by file size
+by T_ype
+Sort file list by type
+Sort file list by modification time
+by _Location
+Sort file list by location
